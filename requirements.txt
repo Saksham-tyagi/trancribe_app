@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+torch
+torchvision
+torchaudio
+git+https://github.com/openai/whisper.git
+openai-whisper
+pyaudio
