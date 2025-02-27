@@ -1,4 +1,5 @@
 This is Transcription app. It can be used to generate the transcription of meeting for notes and summarization. We are using Open-AI whisper model for generation transcriptions.
+
 ![transcribe_app](https://github.com/user-attachments/assets/eaf19968-109f-4449-a6f5-313185e8c910)
 
 
