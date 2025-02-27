@@ -3,4 +3,4 @@ This is Transcription app. It can be used to generate the transcription of meeti
 ## Steps:
 1. Create a virtual environment
 2. Install the requirement using requirements.txt file.
-3. Cun the application using command:- **python app.py**
+3. Run the application using command:- **python app.py**
